@@ -1,0 +1,22 @@
+body{
+    background: #6D6D6D;
+}
+
+.vertical-menu {
+    width: 300px;
+    margin: 0 auto;
+    padding-top: 210px;
+    text-align: center;
+}
+
+.vertical-menu a {
+    background-color: #eee;
+    color: #000000;
+    display: block;
+    padding: 25px;
+    text-decoration: none;
+}
+
+.vertical-menu a:hover {
+    background-color: #ff544f;
+}
